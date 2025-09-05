@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @supervoidcoder
+- 🏫 In High School
+- ➗ Math is really cool! Hopefully, I can take Calculus next year.
 - 👀 I’m interested in making websites, tools, education, and entertainment!
 - 🌱 I’m currently learning C++, C#, and React, and I know JavaScript, Python, CSS, and HTML.
 - 📫 You can comment on my scratch account https://scratch.mit.edu/users/scratchcode1_2_3
